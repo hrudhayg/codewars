@@ -16,9 +16,9 @@ def no_space(x):
 
 #4. Vowel Count (if you want to try a challenge with loops!) -
 def get_count(sentence):
-    count = 0
+    count = 0 = 
     vowels = "aeiouAEIOU"
     for char in sentence:
         if char in vowels:
             count += 1
-    return count
+    return count``
